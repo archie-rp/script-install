@@ -1,0 +1,591 @@
+2013-11-05 20:37:52	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:37:52	--	irc: connected to chat.freenode.net/6667 (206.190.157.76)
+2013-11-05 20:37:53	--	brooks.freenode.net (brooks.freenode.net): *** Looking up your hostname...
+2013-11-05 20:37:53	--	brooks.freenode.net (brooks.freenode.net): *** Checking Ident
+2013-11-05 20:37:53	--	brooks.freenode.net (brooks.freenode.net): *** Found your hostname
+2013-11-05 20:38:01	--	brooks.freenode.net (brooks.freenode.net): *** No Ident response
+2013-11-05 20:38:01	--	Welcome to the freenode Internet Relay Chat Network archierp
+2013-11-05 20:38:01	--	Your host is brooks.freenode.net[206.190.157.76/6667], running version ircd-seven-1.1.3
+2013-11-05 20:38:01	--	This server was created Wed Aug 21 2013 at 21:15:22 UTC
+2013-11-05 20:38:01	--	brooks.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:38:01	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:38:01	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:38:01	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:38:01	--	There are 235 users and 91862 invisible on 29 servers
+2013-11-05 20:38:01	--	30 :IRC Operators online
+2013-11-05 20:38:01	--	20 :unknown connection(s)
+2013-11-05 20:38:01	--	52407 :channels formed
+2013-11-05 20:38:01	--	I have 6293 clients and 1 servers
+2013-11-05 20:38:01	--	6293 6488 :Current local users 6293, max 6488
+2013-11-05 20:38:01	--	92097 92677 :Current global users 92097, max 92677
+2013-11-05 20:38:01	--	Highest connection count: 6489 (6488 clients) (574189 connections received)
+2013-11-05 20:38:01	--	- brooks.freenode.net Message of the Day -
+2013-11-05 20:38:01	--	- Welcome to brooks.freenode.net in Singapore, SG! Thank you
+2013-11-05 20:38:01	--	- to MCBans for sponsoring this server!
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- Terence Dean "Terry" Brooks (1944-) is an American writer of
+2013-11-05 20:38:01	--	- fantasy fiction. He writes mainly epic fantasy, and is most
+2013-11-05 20:38:01	--	- famous for his various Shannara series. He has written 23 New
+2013-11-05 20:38:01	--	- York Times bestsellers during his writing career, and has
+2013-11-05 20:38:01	--	- over 21 million copies of his books in print. He is one of
+2013-11-05 20:38:01	--	- the biggest-selling living fantasy writers.
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:38:01	--	- software communities since 1998.
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:38:01	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:38:01	--	- website (http://freenode.net/).
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:38:01	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:38:01	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:38:01	--	- requested this and users of the channel are all made aware
+2013-11-05 20:38:01	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:38:01	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:38:01	--	- network policy, please take a look at our policy page
+2013-11-05 20:38:01	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:38:01	--	- indicates your acceptance of this policy.
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:38:01	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:38:01	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:38:01	--	- have.
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:38:01	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:38:01	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:38:01	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:38:01	--	- close to you.
+2013-11-05 20:38:01	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:38:01	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:38:01	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:38:01	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:38:01	--	- communities.
+2013-11-05 20:38:01	--	-
+2013-11-05 20:38:01	--	- ***************************************************************
+2013-11-05 20:38:01	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:38:01	--	- ***************************************************************
+2013-11-05 20:38:01	--	End of /MOTD command.
+2013-11-05 20:38:01	--	User mode [+i] by archierp
+2013-11-05 20:40:18	--	irc: disconnected from server
+2013-11-05 20:40:21	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:40:22	--	irc: connected to chat.freenode.net/6667 (206.190.157.76)
+2013-11-05 20:40:22	--	brooks.freenode.net (brooks.freenode.net): *** Looking up your hostname...
+2013-11-05 20:40:22	--	brooks.freenode.net (brooks.freenode.net): *** Checking Ident
+2013-11-05 20:40:22	--	brooks.freenode.net (brooks.freenode.net): *** Found your hostname
+2013-11-05 20:40:29	--	brooks.freenode.net (brooks.freenode.net): *** No Ident response
+2013-11-05 20:40:29	--	Welcome to the freenode Internet Relay Chat Network archierp
+2013-11-05 20:40:29	--	Your host is brooks.freenode.net[206.190.157.76/6667], running version ircd-seven-1.1.3
+2013-11-05 20:40:29	--	This server was created Wed Aug 21 2013 at 21:15:22 UTC
+2013-11-05 20:40:29	--	brooks.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:40:29	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:40:29	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:40:29	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:40:29	--	There are 235 users and 91847 invisible on 29 servers
+2013-11-05 20:40:29	--	30 :IRC Operators online
+2013-11-05 20:40:29	--	16 :unknown connection(s)
+2013-11-05 20:40:29	--	52395 :channels formed
+2013-11-05 20:40:29	--	I have 6296 clients and 1 servers
+2013-11-05 20:40:29	--	6296 6488 :Current local users 6296, max 6488
+2013-11-05 20:40:29	--	92082 92677 :Current global users 92082, max 92677
+2013-11-05 20:40:29	--	Highest connection count: 6489 (6488 clients) (574218 connections received)
+2013-11-05 20:40:29	--	- brooks.freenode.net Message of the Day -
+2013-11-05 20:40:29	--	- Welcome to brooks.freenode.net in Singapore, SG! Thank you
+2013-11-05 20:40:29	--	- to MCBans for sponsoring this server!
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- Terence Dean "Terry" Brooks (1944-) is an American writer of
+2013-11-05 20:40:29	--	- fantasy fiction. He writes mainly epic fantasy, and is most
+2013-11-05 20:40:29	--	- famous for his various Shannara series. He has written 23 New
+2013-11-05 20:40:29	--	- York Times bestsellers during his writing career, and has
+2013-11-05 20:40:29	--	- over 21 million copies of his books in print. He is one of
+2013-11-05 20:40:29	--	- the biggest-selling living fantasy writers.
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:40:29	--	- software communities since 1998.
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:40:29	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:40:29	--	- website (http://freenode.net/).
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:40:29	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:40:29	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:40:29	--	- requested this and users of the channel are all made aware
+2013-11-05 20:40:29	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:40:29	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:40:29	--	- network policy, please take a look at our policy page
+2013-11-05 20:40:29	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:40:29	--	- indicates your acceptance of this policy.
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:40:29	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:40:29	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:40:29	--	- have.
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:40:29	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:40:29	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:40:29	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:40:29	--	- close to you.
+2013-11-05 20:40:29	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:40:29	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:40:29	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:40:29	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:40:29	--	- communities.
+2013-11-05 20:40:29	--	-
+2013-11-05 20:40:29	--	- ***************************************************************
+2013-11-05 20:40:29	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:40:29	--	- ***************************************************************
+2013-11-05 20:40:29	--	End of /MOTD command.
+2013-11-05 20:40:29	--	User mode [+i] by archierp
+2013-11-05 20:42:48	--	irc: disconnected from server
+2013-11-05 20:42:50	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:42:51	--	irc: connected to chat.freenode.net/6667 (94.125.182.252)
+2013-11-05 20:42:51	--	adams.freenode.net (adams.freenode.net): *** Looking up your hostname...
+2013-11-05 20:42:51	--	adams.freenode.net (adams.freenode.net): *** Checking Ident
+2013-11-05 20:42:52	--	adams.freenode.net (adams.freenode.net): *** Found your hostname
+2013-11-05 20:43:02	--	adams.freenode.net (adams.freenode.net): *** No Ident response
+2013-11-05 20:43:02	--	Welcome to the freenode Internet Relay Chat Network archierp
+2013-11-05 20:43:02	--	Your host is adams.freenode.net[94.125.182.252/6667], running version ircd-seven-1.1.3
+2013-11-05 20:43:02	--	This server was created Sat Mar 10 2012 at 14:55:48 CET
+2013-11-05 20:43:02	--	adams.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:43:02	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:43:02	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:43:02	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:43:02	--	There are 235 users and 91837 invisible on 29 servers
+2013-11-05 20:43:02	--	30 :IRC Operators online
+2013-11-05 20:43:02	--	14 :unknown connection(s)
+2013-11-05 20:43:02	--	52409 :channels formed
+2013-11-05 20:43:02	--	I have 1720 clients and 1 servers
+2013-11-05 20:43:02	--	1720 10111 :Current local users 1720, max 10111
+2013-11-05 20:43:02	--	92072 92676 :Current global users 92072, max 92676
+2013-11-05 20:43:02	--	Highest connection count: 10112 (10111 clients) (7920079 connections received)
+2013-11-05 20:43:02	--	- adams.freenode.net Message of the Day -
+2013-11-05 20:43:02	--	- Welcome to adams.freenode.net. Thanks to ATW Internet Kft
+2013-11-05 20:43:02	--	- (http://www.atw.hu) for sponsoring this server!
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- ADAMS, DOUGLAS (1952-2001).  Author of The Hitch Hikers Guide
+2013-11-05 20:43:02	--	- to the Galaxy and many other witty and humourous books,
+2013-11-05 20:43:02	--	- portrayed in his uniquely British irony. He is sorely missed
+2013-11-05 20:43:02	--	- by many millions of devoted fans. "So long and thanks for all
+2013-11-05 20:43:02	--	- the books!"
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:43:02	--	- software communities since 1998.
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:43:02	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:43:02	--	- website (http://freenode.net/).
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:43:02	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:43:02	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:43:02	--	- requested this and users of the channel are all made aware
+2013-11-05 20:43:02	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:43:02	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:43:02	--	- network policy, please take a look at our policy page
+2013-11-05 20:43:02	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:43:02	--	- indicates your acceptance of this policy.
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:43:02	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:43:02	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:43:02	--	- have.
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:43:02	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:43:02	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:43:02	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:43:02	--	- close to you.
+2013-11-05 20:43:02	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:43:02	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:43:02	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:43:02	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:43:02	--	- communities.
+2013-11-05 20:43:02	--	-
+2013-11-05 20:43:02	--	- ***************************************************************
+2013-11-05 20:43:02	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:43:02	--	- ***************************************************************
+2013-11-05 20:43:02	--	End of /MOTD command.
+2013-11-05 20:43:02	--	User mode [+i] by archierp
+2013-11-05 20:46:58	--	irc: disconnected from server
+2013-11-05 20:46:59	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:47:00	--	irc: connected to chat.freenode.net/6667 (213.92.8.4)
+2013-11-05 20:47:00	--	calvino.freenode.net (calvino.freenode.net): *** Looking up your hostname...
+2013-11-05 20:47:01	--	calvino.freenode.net (calvino.freenode.net): *** Checking Ident
+2013-11-05 20:47:01	--	calvino.freenode.net (calvino.freenode.net): *** Found your hostname
+2013-11-05 20:47:09	--	calvino.freenode.net (calvino.freenode.net): *** No Ident response
+2013-11-05 20:47:09	--	Welcome to the freenode Internet Relay Chat Network archierp
+2013-11-05 20:47:09	--	Your host is calvino.freenode.net[213.92.8.4/6667], running version ircd-seven-1.1.3
+2013-11-05 20:47:09	--	This server was created Mon Dec 31 2012 at 22:38:09 CET
+2013-11-05 20:47:09	--	calvino.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:47:09	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:47:09	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:47:09	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:47:09	--	There are 237 users and 91821 invisible on 29 servers
+2013-11-05 20:47:09	--	30 :IRC Operators online
+2013-11-05 20:47:09	--	12 :unknown connection(s)
+2013-11-05 20:47:09	--	52406 :channels formed
+2013-11-05 20:47:09	--	I have 6124 clients and 1 servers
+2013-11-05 20:47:09	--	6124 7821 :Current local users 6124, max 7821
+2013-11-05 20:47:09	--	92058 92676 :Current global users 92058, max 92676
+2013-11-05 20:47:09	--	Highest connection count: 7822 (7821 clients) (1852266 connections received)
+2013-11-05 20:47:09	--	- calvino.freenode.net Message of the Day -
+2013-11-05 20:47:09	--	- Welcome to calvino.freenode.net in Milan, Italy! Thanks to
+2013-11-05 20:47:09	--	- I.Net S.p.A. (www.inet.it) for sponsoring this server!
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- CALVINO, ITALO [1923-1985].  Born in Cuba, Italo Calvino grew
+2013-11-05 20:47:09	--	- up in San Remo, Italy.  During World War II, he joined the
+2013-11-05 20:47:09	--	- partisans during the German occupation and, after writing a
+2013-11-05 20:47:09	--	- series of stories which drew on his experiences, he became a
+2013-11-05 20:47:09	--	- journalist. His work included Mr. Palomar, Under the
+2013-11-05 20:47:09	--	- Jaguar Sun, Cosmicomics and t zero.  Calvino made
+2013-11-05 20:47:09	--	- important contributions to Italian literature in the middle
+2013-11-05 20:47:09	--	- of the last century.
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:47:09	--	- software communities since 1998.
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:47:09	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:47:09	--	- website (http://freenode.net/).
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:47:09	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:47:09	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:47:09	--	- requested this and users of the channel are all made aware
+2013-11-05 20:47:09	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:47:09	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:47:09	--	- network policy, please take a look at our policy page
+2013-11-05 20:47:09	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:47:09	--	- indicates your acceptance of this policy.
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:47:09	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:47:09	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:47:09	--	- have.
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:47:09	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:47:09	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:47:09	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:47:09	--	- close to you.
+2013-11-05 20:47:09	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:47:09	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:47:09	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:47:09	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:47:09	--	- communities.
+2013-11-05 20:47:09	--	-
+2013-11-05 20:47:09	--	- ***************************************************************
+2013-11-05 20:47:09	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:47:09	--	- ***************************************************************
+2013-11-05 20:47:09	--	End of /MOTD command.
+2013-11-05 20:47:09	--	User mode [+i] by archierp
+2013-11-05 20:47:43	--	irc: disconnected from server
+2013-11-05 20:47:44	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:47:45	--	irc: connected to chat.freenode.net/6667 (174.143.119.91)
+2013-11-05 20:47:45	--	asimov.freenode.net (asimov.freenode.net): *** Looking up your hostname...
+2013-11-05 20:47:46	--	asimov.freenode.net (asimov.freenode.net): *** Checking Ident
+2013-11-05 20:47:46	--	asimov.freenode.net (asimov.freenode.net): *** Found your hostname
+2013-11-05 20:47:56	--	asimov.freenode.net (asimov.freenode.net): *** No Ident response
+2013-11-05 20:47:56	--	Welcome to the freenode Internet Relay Chat Network archierp
+2013-11-05 20:47:56	--	Your host is asimov.freenode.net[174.143.119.91/6667], running version ircd-seven-1.1.3
+2013-11-05 20:47:56	--	This server was created Mon Dec 31 2012 at 21:37:02 UTC
+2013-11-05 20:47:56	--	asimov.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:47:56	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:47:56	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:47:56	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:47:56	--	There are 237 users and 91813 invisible on 29 servers
+2013-11-05 20:47:56	--	30 :IRC Operators online
+2013-11-05 20:47:56	--	8 :unknown connection(s)
+2013-11-05 20:47:56	--	52423 :channels formed
+2013-11-05 20:47:56	--	I have 4134 clients and 1 servers
+2013-11-05 20:47:56	--	4134 7142 :Current local users 4134, max 7142
+2013-11-05 20:47:56	--	92050 92677 :Current global users 92050, max 92677
+2013-11-05 20:47:56	--	Highest connection count: 7143 (7142 clients) (962284 connections received)
+2013-11-05 20:47:56	--	- asimov.freenode.net Message of the Day -
+2013-11-05 20:47:56	--	- Welcome to asimov.freenode.net in TX, USA!  Thanks to
+2013-11-05 20:47:56	--	- Rackspace (www.rackspace.com) for sponsoring
+2013-11-05 20:47:56	--	- this server!
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- ASIMOV, ISAAC [1920-1992].  One of the brightest stars of the
+2013-11-05 20:47:56	--	- science fiction universe.  Author of I Robot, the
+2013-11-05 20:47:56	--	- Foundation series (which "grew like Topsy"), Pebble in the
+2013-11-05 20:47:56	--	- Sky and hundreds of works of science fact and science
+2013-11-05 20:47:56	--	- fiction.
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:47:56	--	- software communities since 1998.
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:47:56	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:47:56	--	- website (http://freenode.net/).
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:47:56	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:47:56	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:47:56	--	- requested this and users of the channel are all made aware
+2013-11-05 20:47:56	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:47:56	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:47:56	--	- network policy, please take a look at our policy page
+2013-11-05 20:47:56	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:47:56	--	- indicates your acceptance of this policy.
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:47:56	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:47:56	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:47:56	--	- have.
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:47:56	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:47:56	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:47:56	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:47:56	--	- close to you.
+2013-11-05 20:47:56	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:47:56	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:47:56	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:47:56	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:47:56	--	- communities.
+2013-11-05 20:47:56	--	-
+2013-11-05 20:47:56	--	- ***************************************************************
+2013-11-05 20:47:56	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:47:56	--	- ***************************************************************
+2013-11-05 20:47:56	--	End of /MOTD command.
+2013-11-05 20:47:56	--	User mode [+i] by archierp
+2013-11-05 20:48:24	--	irc: disconnected from server
+2013-11-05 20:51:06	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:51:06	--	irc: connected to chat.freenode.net/6667 (192.166.143.49)
+2013-11-05 20:51:07	--	rothfuss.freenode.net (rothfuss.freenode.net): *** Looking up your hostname...
+2013-11-05 20:51:07	--	rothfuss.freenode.net (rothfuss.freenode.net): *** Checking Ident
+2013-11-05 20:51:07	--	rothfuss.freenode.net (rothfuss.freenode.net): *** Found your hostname
+2013-11-05 20:51:16	--	rothfuss.freenode.net (rothfuss.freenode.net): *** No Ident response
+2013-11-05 20:51:16	--	Welcome to the freenode Internet Relay Chat Network saiko-chriskun
+2013-11-05 20:51:16	--	Your host is rothfuss.freenode.net[192.166.143.49/6667], running version ircd-seven-1.1.3
+2013-11-05 20:51:16	--	This server was created Sun Aug 25 2013 at 22:48:58 CEST
+2013-11-05 20:51:16	--	rothfuss.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:51:16	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:51:16	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:51:16	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:51:16	--	There are 236 users and 91779 invisible on 29 servers
+2013-11-05 20:51:16	--	30 :IRC Operators online
+2013-11-05 20:51:16	--	7 :unknown connection(s)
+2013-11-05 20:51:16	--	52411 :channels formed
+2013-11-05 20:51:16	--	I have 6209 clients and 1 servers
+2013-11-05 20:51:16	--	6209 6417 :Current local users 6209, max 6417
+2013-11-05 20:51:16	--	92015 92321 :Current global users 92015, max 92321
+2013-11-05 20:51:16	--	Highest connection count: 6418 (6417 clients) (124395 connections received)
+2013-11-05 20:51:16	--	- rothfuss.freenode.net Message of the Day -
+2013-11-05 20:51:16	--	- Welcome to rothfuss.freenode.net in Paris, France, EU! Thanks to
+2013-11-05 20:51:16	--	- the ISVTEC for sponsoring this server!
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- Patrick James Rothfuss (born June 6, 1973) is an American fantasy
+2013-11-05 20:51:16	--	- writer and college lecturer. He is the author of the projected
+2013-11-05 20:51:16	--	- three-volume series The Kingkiller Chronicle. Patrick Rothfuss was
+2013-11-05 20:51:16	--	- born in Madison, Wisconsin, and received his B.S. in English from
+2013-11-05 20:51:16	--	- the University of Wisconsin–Stevens Point in 1999 after spending
+2013-11-05 20:51:16	--	- nine years as an undergraduate exploring various majors such as
+2013-11-05 20:51:16	--	- Chemical Engineering, Clinical Psychology, and others.
+2013-11-05 20:51:16	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:51:16	--	- software communities since 1998.
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:51:16	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:51:16	--	- website (http://freenode.net/).
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:51:16	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:51:16	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:51:16	--	- requested this and users of the channel are all made aware
+2013-11-05 20:51:16	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:51:16	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:51:16	--	- network policy, please take a look at our policy page
+2013-11-05 20:51:16	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:51:16	--	- indicates your acceptance of this policy.
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:51:16	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:51:16	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:51:16	--	- have.
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:51:16	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:51:16	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:51:16	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:51:16	--	- close to you.
+2013-11-05 20:51:16	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:51:16	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:51:16	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:51:16	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:51:16	--	- communities.
+2013-11-05 20:51:16	--	-
+2013-11-05 20:51:16	--	- ***************************************************************
+2013-11-05 20:51:16	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:51:16	--	- ***************************************************************
+2013-11-05 20:51:16	--	End of /MOTD command.
+2013-11-05 20:51:16	--	User mode [+i] by saiko-chriskun
+2013-11-05 20:51:16	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2013-11-05 20:51:16	--	NickServ (NickServ@services.): You are now identified for chris-kun.
+2013-11-05 20:51:16	--	fsf/member/saiko-chriskun :is now your hidden host (set by services.)
+2013-11-05 20:52:28	--	irc: disconnected from server
+2013-11-05 20:56:57	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 20:56:58	--	irc: connected to chat.freenode.net/6667 (174.143.119.91)
+2013-11-05 20:56:58	--	asimov.freenode.net (asimov.freenode.net): *** Looking up your hostname...
+2013-11-05 20:56:58	--	asimov.freenode.net (asimov.freenode.net): *** Checking Ident
+2013-11-05 20:56:58	--	asimov.freenode.net (asimov.freenode.net): *** Found your hostname
+2013-11-05 20:57:06	--	asimov.freenode.net (asimov.freenode.net): *** No Ident response
+2013-11-05 20:57:06	--	Welcome to the freenode Internet Relay Chat Network Archierp
+2013-11-05 20:57:06	--	Your host is asimov.freenode.net[174.143.119.91/6667], running version ircd-seven-1.1.3
+2013-11-05 20:57:06	--	This server was created Mon Dec 31 2012 at 21:37:02 UTC
+2013-11-05 20:57:06	--	asimov.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 20:57:06	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 20:57:06	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 20:57:06	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 20:57:06	--	There are 237 users and 91694 invisible on 29 servers
+2013-11-05 20:57:06	--	30 :IRC Operators online
+2013-11-05 20:57:06	--	12 :unknown connection(s)
+2013-11-05 20:57:06	--	52383 :channels formed
+2013-11-05 20:57:06	--	I have 4160 clients and 1 servers
+2013-11-05 20:57:06	--	4160 7142 :Current local users 4160, max 7142
+2013-11-05 20:57:06	--	91931 92677 :Current global users 91931, max 92677
+2013-11-05 20:57:06	--	Highest connection count: 7143 (7142 clients) (962408 connections received)
+2013-11-05 20:57:06	--	- asimov.freenode.net Message of the Day -
+2013-11-05 20:57:06	--	- Welcome to asimov.freenode.net in TX, USA!  Thanks to
+2013-11-05 20:57:06	--	- Rackspace (www.rackspace.com) for sponsoring
+2013-11-05 20:57:06	--	- this server!
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- ASIMOV, ISAAC [1920-1992].  One of the brightest stars of the
+2013-11-05 20:57:06	--	- science fiction universe.  Author of I Robot, the
+2013-11-05 20:57:06	--	- Foundation series (which "grew like Topsy"), Pebble in the
+2013-11-05 20:57:06	--	- Sky and hundreds of works of science fact and science
+2013-11-05 20:57:06	--	- fiction.
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 20:57:06	--	- software communities since 1998.
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 20:57:06	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 20:57:06	--	- website (http://freenode.net/).
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- We would like to remind you that unauthorised public logging
+2013-11-05 20:57:06	--	- of channels on the network is prohibited. Public channel
+2013-11-05 20:57:06	--	- logging should only take place where the channel owner(s) has
+2013-11-05 20:57:06	--	- requested this and users of the channel are all made aware
+2013-11-05 20:57:06	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 20:57:06	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 20:57:06	--	- network policy, please take a look at our policy page
+2013-11-05 20:57:06	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 20:57:06	--	- indicates your acceptance of this policy.
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- Please join #freenode for any network-related questions or
+2013-11-05 20:57:06	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 20:57:06	--	- users who would be happy to try answer any questions you might
+2013-11-05 20:57:06	--	- have.
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 20:57:06	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 20:57:06	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 20:57:06	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 20:57:06	--	- close to you.
+2013-11-05 20:57:06	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 20:57:06	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 20:57:06	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 20:57:06	--	- long term support and dedication they show to the FOSS
+2013-11-05 20:57:06	--	- communities.
+2013-11-05 20:57:06	--	-
+2013-11-05 20:57:06	--	- ***************************************************************
+2013-11-05 20:57:06	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 20:57:06	--	- ***************************************************************
+2013-11-05 20:57:06	--	End of /MOTD command.
+2013-11-05 20:57:06	--	User mode [+i] by Archierp
+2013-11-05 21:01:14	--	irc: disconnected from server
+2013-11-05 21:01:29	--	irc: connecting to server chat.freenode.net/6667...
+2013-11-05 21:01:30	--	irc: connected to chat.freenode.net/6667 (93.152.160.101)
+2013-11-05 21:01:30	--	hitchcock.freenode.net (hitchcock.freenode.net): *** Looking up your hostname...
+2013-11-05 21:01:30	--	hitchcock.freenode.net (hitchcock.freenode.net): *** Checking Ident
+2013-11-05 21:01:30	--	hitchcock.freenode.net (hitchcock.freenode.net): *** Found your hostname
+2013-11-05 21:01:40	--	hitchcock.freenode.net (hitchcock.freenode.net): *** No Ident response
+2013-11-05 21:01:40	--	Welcome to the freenode Internet Relay Chat Network Archierp
+2013-11-05 21:01:40	--	Your host is hitchcock.freenode.net[93.152.160.101/6667], running version ircd-seven-1.1.3
+2013-11-05 21:01:40	--	This server was created Mon Dec 31 2012 at 23:37:41 EET
+2013-11-05 21:01:40	--	hitchcock.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+2013-11-05 21:01:40	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+2013-11-05 21:01:40	--	CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+2013-11-05 21:01:40	--	EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+2013-11-05 21:01:40	--	There are 237 users and 91543 invisible on 29 servers
+2013-11-05 21:01:40	--	30 :IRC Operators online
+2013-11-05 21:01:40	--	9 :unknown connection(s)
+2013-11-05 21:01:40	--	52425 :channels formed
+2013-11-05 21:01:40	--	I have 1034 clients and 1 servers
+2013-11-05 21:01:40	--	1034 1044 :Current local users 1034, max 1044
+2013-11-05 21:01:40	--	91780 92321 :Current global users 91780, max 92321
+2013-11-05 21:01:40	--	Highest connection count: 1045 (1044 clients) (2866 connections received)
+2013-11-05 21:01:40	--	- hitchcock.freenode.net Message of the Day -
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+2013-11-05 21:01:40	--	- OnlineDirect (http://onlinedirect.bg).
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+2013-11-05 21:01:40	--	- England, Sir Alfred Hitchcock was a noted film director
+2013-11-05 21:01:40	--	- and producer. Over a long career he pioneered many modern
+2013-11-05 21:01:40	--	- techniques in film-making, made more than 50 feature films,
+2013-11-05 21:01:40	--	- and influenced many present-day directors and producers.
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- Welcome to freenode - supporting the free and open source
+2013-11-05 21:01:40	--	- software communities since 1998.
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- By connecting to freenode you indicate that you have read and
+2013-11-05 21:01:40	--	- agree to adhere to our policies and procedures as per the
+2013-11-05 21:01:40	--	- website (http://freenode.net/).
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- We would like to remind you that unauthorised public logging
+2013-11-05 21:01:40	--	- of channels on the network is prohibited. Public channel
+2013-11-05 21:01:40	--	- logging should only take place where the channel owner(s) has
+2013-11-05 21:01:40	--	- requested this and users of the channel are all made aware
+2013-11-05 21:01:40	--	- (if you are publically logging your channel, you may wish to
+2013-11-05 21:01:40	--	- keep a notice in the topic and perhaps as an on-join message).
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- freenode runs an open proxy scanner. For details on freenode
+2013-11-05 21:01:40	--	- network policy, please take a look at our policy page
+2013-11-05 21:01:40	--	- (http://freenode.net/policy.shtml).  Your use of the network
+2013-11-05 21:01:40	--	- indicates your acceptance of this policy.
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- Please join #freenode for any network-related questions or
+2013-11-05 21:01:40	--	- queries, there are numerous freenode volunteers and helpful
+2013-11-05 21:01:40	--	- users who would be happy to try answer any questions you might
+2013-11-05 21:01:40	--	- have.
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- Check out www.fossevents.org to find out what is happening in
+2013-11-05 21:01:40	--	- your area, join us at FOSSCON (www.fosscon.org) for talks and
+2013-11-05 21:01:40	--	- real-life collaboration or bring a picnic and come join
+2013-11-05 21:01:40	--	- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+2013-11-05 21:01:40	--	- close to you.
+2013-11-05 21:01:40	--	- Lastly, massive thanks to the OSU Open Source Lab
+2013-11-05 21:01:40	--	- (http://osuosl.org/) and Private Internet Access
+2013-11-05 21:01:40	--	- (https://www.privateinternetaccess.com/) for their sustained,
+2013-11-05 21:01:40	--	- long term support and dedication they show to the FOSS
+2013-11-05 21:01:40	--	- communities.
+2013-11-05 21:01:40	--	-
+2013-11-05 21:01:40	--	- ***************************************************************
+2013-11-05 21:01:40	--	- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+2013-11-05 21:01:40	--	- ***************************************************************
+2013-11-05 21:01:40	--	End of /MOTD command.
+2013-11-05 21:01:40	--	User mode [+i] by Archierp
+2013-11-06 02:44:29	--	irc: disconnected from server

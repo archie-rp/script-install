@@ -1,0 +1,101 @@
+2013-11-05 20:03:59	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:03:59	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:03:59		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:04:38	=!=	You can not write text in this buffer
+2013-11-05 20:04:42	=!=	You can not write text in this buffer
+2013-11-05 20:04:50	=!=	You can not write text in this buffer
+2013-11-05 20:04:54	=!=	You can not write text in this buffer
+2013-11-05 20:05:06	=!=	You can not write text in this buffer
+2013-11-05 20:05:12	=!=	You can not write text in this buffer
+2013-11-05 20:05:17	=!=	You can not write text in this buffer
+2013-11-05 20:05:18	=!=	You can not write text in this buffer
+2013-11-05 20:05:18	=!=	You can not write text in this buffer
+2013-11-05 20:05:19	=!=	You can not write text in this buffer
+2013-11-05 20:05:19	=!=	You can not write text in this buffer
+2013-11-05 20:05:20	=!=	You can not write text in this buffer
+2013-11-05 20:05:21	=!=	You can not write text in this buffer
+2013-11-05 20:05:22	=!=	You can not write text in this buffer
+2013-11-05 20:05:23	=!=	You can not write text in this buffer
+2013-11-05 20:05:23	=!=	You can not write text in this buffer
+2013-11-05 20:05:23	=!=	You can not write text in this buffer
+2013-11-05 20:05:23	=!=	You can not write text in this buffer
+2013-11-05 20:06:10		fifo: pipe closed
+2013-11-05 20:06:18	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:06:18	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:06:18		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:06:23	=!=	You can not write text in this buffer
+2013-11-05 20:06:50		script: downloading list of scripts...
+2013-11-05 20:06:51		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:06:51		perl: loading script "/home/archierp/.weechat/perl/iset.pl"
+2013-11-05 20:06:51		perl: registered script "iset", version 3.2 (Interactive Set for configuration options)
+2013-11-05 20:06:51		New key binding (context "mouse"): @chat(perl.iset):button1 => hsignal:iset_mouse
+2013-11-05 20:06:51		New key binding (context "mouse"): @chat(perl.iset):button2* => hsignal:iset_mouse
+2013-11-05 20:06:51		New key binding (context "mouse"): @chat(perl.iset):wheeldown => /repeat 5 /iset **down
+2013-11-05 20:06:51		New key binding (context "mouse"): @chat(perl.iset):wheelup => /repeat 5 /iset **up
+2013-11-05 20:07:25		irc: server chat.freenode.net created (temporary server, NOT SAVED!)
+2013-11-05 20:08:32		Option changed: irc.look.smart_filter = on
+2013-11-05 20:08:40		Alias "sfilter" => "filter add irc_smart_$server_$channel irc.$server.$channel irc_smart_filter *" created
+2013-11-05 20:08:48		Filter "irc_smart_chat.freenode.net_chat.freenode.net" added:
+2013-11-05 20:08:48		  [irc_smart_chat.freenode.net_chat.freenode.net] buffer: irc.chat.freenode.net.chat.freenode.net / tags: irc_smart_filter / regex: * 
+2013-11-05 20:09:00		Alias "rmsfilter" => "filter del irc_smart_$server_$channel" created
+2013-11-05 20:09:06		Filter "irc_smart_chat.freenode.net_chat.freenode.net" deleted
+2013-11-05 20:22:22		Option changed: irc.look.smart_filter = on
+2013-11-05 20:22:31		Filter "irc_smart" added:
+2013-11-05 20:22:31		  [irc_smart] buffer: * / tags: irc_smart_filter / regex: * 
+2013-11-05 20:22:46		Option changed: irc.look.smart_filter_delay = 5
+2013-11-05 20:23:27		Filter "joinquit" added:
+2013-11-05 20:23:27		  [joinquit] buffer: * / tags: irc_join,irc_part,irc_quit / regex: * 
+2013-11-05 20:23:56		fifo: pipe closed
+2013-11-05 20:25:02		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:25:03	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:25:03	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:25:03		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:25:07	=!=	Error: option "irc.server.oftc.autojoin" not found
+2013-11-05 20:34:45	=!=	You can not write text in this buffer
+2013-11-05 20:35:01	=!=	You can not write text in this buffer
+2013-11-05 20:36:35	=!=	Error: option "irc.server.oftc.autojoin" not found
+2013-11-05 20:36:45		Option changed: irc.server.freenode.autojoin = "#archlinux,#awesomewm"  (default: (undefined))
+2013-11-05 20:37:43		Option changed: irc.server.freenode.autoconnect = on  (default: (undefined))
+2013-11-05 20:37:50		fifo: pipe closed
+2013-11-05 20:37:52		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:37:52	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:37:52	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:37:52		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:40:18		fifo: pipe closed
+2013-11-05 20:40:21		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:40:21	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:40:21	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:40:21		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:42:48		fifo: pipe closed
+2013-11-05 20:42:51		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:42:51	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:42:51	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:42:51		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:46:58		fifo: pipe closed
+2013-11-05 20:47:00		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:47:00	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:47:00	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:47:00		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:47:43		fifo: pipe closed
+2013-11-05 20:47:44		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:47:45	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:47:45	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:47:45		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:48:24		fifo: pipe closed
+2013-11-05 20:51:06		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:51:06	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:51:06	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:51:06		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 20:52:28		fifo: pipe closed
+2013-11-05 20:56:57	=!=	irc: error creating server option "oftc.autorejoin= "#awesome""
+2013-11-05 20:56:57	=!=	Warning: /home/archierp/.weechat/irc.conf, line 156: invalid value for option: oftc.autorejoin= "#awesome"
+2013-11-05 20:56:58		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 20:56:58	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 20:56:58	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 20:56:58		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-05 21:01:14		fifo: pipe closed
+2013-11-05 21:01:30		script: 260 scripts for WeeChat 0.4.2
+2013-11-05 21:01:30	=!=	Error: unable to load plugin "/usr/lib/weechat/plugins/ruby.so": libruby.so.2.0: cannot open shared object file: No such file or directory
+2013-11-05 21:01:30	=!=	If you're trying to load a script and not a C plugin, try command to load scripts (/perl, /python, ...)
+2013-11-05 21:01:30		Plugins loaded: alias, aspell, charset, fifo, guile, irc, logger, lua, perl, python, relay, rmodifier, script, weenick, weereact, xfer
+2013-11-06 02:44:29		fifo: pipe closed

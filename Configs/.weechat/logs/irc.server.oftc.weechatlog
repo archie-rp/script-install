@@ -1,0 +1,105 @@
+2013-11-05 20:56:57	--	irc: connecting to server irc4.oftc.net/6667...
+2013-11-05 20:56:59	--	irc: connected to irc4.oftc.net/6667 (82.195.75.116)
+2013-11-05 20:56:59	--	magnet.oftc.net (magnet.oftc.net): *** Looking up your hostname...
+2013-11-05 20:56:59	--	magnet.oftc.net (magnet.oftc.net): *** Checking Ident
+2013-11-05 20:57:00	--	magnet.oftc.net (magnet.oftc.net): *** Found your hostname
+2013-11-05 20:57:10	--	magnet.oftc.net (magnet.oftc.net): *** No Ident response
+2013-11-05 20:57:10	--	Welcome to the OFTC Internet Relay Chat Network Archierp
+2013-11-05 20:57:10	=!=	irc: this buffer is not a channel!
+2013-11-05 20:57:10	--	Your host is magnet.oftc.net[82.195.75.116/6667], running version hybrid-7.2.2+oftc1.6.11
+2013-11-05 20:57:10	--	This server was created Mar 10 2013 at 20:46:35
+2013-11-05 20:57:10	--	magnet.oftc.net hybrid-7.2.2+oftc1.6.11 CDGPRSabcdfgiklnorsuwxyz biklmnopstveI bkloveI
+2013-11-05 20:57:10	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=390 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2013-11-05 20:57:10	--	CHANLIMIT=#:70 CHANNELLEN=50 CHANMODES=eIqb,k,l,imnpstMRS AWAYLEN=160 KNOCK ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2013-11-05 20:57:10	--	04ZAADIR6 :your unique ID
+2013-11-05 20:57:10	--	There are 47 users and 10148 invisible on 17 servers
+2013-11-05 20:57:10	--	21 :IRC Operators online
+2013-11-05 20:57:10	--	2 :unknown connection(s)
+2013-11-05 20:57:10	--	2068 :channels formed
+2013-11-05 20:57:10	--	I have 1349 clients and 1 servers
+2013-11-05 20:57:10	--	Current local users: 1349  Max: 1438
+2013-11-05 20:57:10	--	Current global users: 10195  Max: 10781
+2013-11-05 20:57:10	--	Highest connection count: 1439 (1438 clients) (150981 connections received)
+2013-11-05 20:57:10	--	- magnet.oftc.net Message of the Day -
+2013-11-05 20:57:10	--	- Welcome to OFTC - The Open and Free Technology Community
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	- You have connected to OFTC's IRC services.
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	- We are not a general purpose chat platform, but a topical
+2013-11-05 20:57:10	--	- network intent on providing the open source and free
+2013-11-05 20:57:10	--	- software communities a means to cooperate and communicate.
+2013-11-05 20:57:10	--	- As such, illegal and off-topic activity, such as warez
+2013-11-05 20:57:10	--	- trading, may result in being barred from access.
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	- The Open and Free Technology Community was founded at the
+2013-11-05 20:57:10	--	- end of 2001 by a group of experienced members of the Open
+2013-11-05 20:57:10	--	- Source and Free Software communities; it is aimed at
+2013-11-05 20:57:10	--	- providing these communities with better communication,
+2013-11-05 20:57:10	--	- development, and support infrastructure. Our goal is to
+2013-11-05 20:57:10	--	- provide stable services to members of the community in any
+2013-11-05 20:57:10	--	- part of the world, while listening closely to their needs
+2013-11-05 20:57:10	--	- and desires.
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	- For more information on OFTC please visit http://www.oftc.net/.
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	- If you require assistance stop by in channel #oftc, or email
+2013-11-05 20:57:10	--	- support@oftc.net with details.
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	- Thanks and enjoy your stay,
+2013-11-05 20:57:10	--	-
+2013-11-05 20:57:10	--	-         The OFTC team
+2013-11-05 20:57:10	--	End of /MOTD command.
+2013-11-05 20:57:10	--	User mode [+i] by Archierp
+2013-11-05 21:01:14	--	irc: disconnected from server
+2013-11-05 21:01:29	--	irc: connecting to server irc4.oftc.net/6667...
+2013-11-05 21:01:33	--	irc: connected to irc4.oftc.net/6667 (87.117.201.130)
+2013-11-05 21:01:33	--	kinetic.oftc.net (kinetic.oftc.net): *** Looking up your hostname...
+2013-11-05 21:01:33	--	kinetic.oftc.net (kinetic.oftc.net): *** Checking Ident
+2013-11-05 21:01:33	--	kinetic.oftc.net (kinetic.oftc.net): *** Found your hostname
+2013-11-05 21:01:43	--	kinetic.oftc.net (kinetic.oftc.net): *** No Ident response
+2013-11-05 21:01:43	--	Welcome to the OFTC Internet Relay Chat Network Archierp
+2013-11-05 21:01:43	=!=	irc: this buffer is not a channel!
+2013-11-05 21:01:43	--	Your host is kinetic.oftc.net[87.117.201.130/6667], running version hybrid-7.2.2+oftc1.6.11
+2013-11-05 21:01:43	--	This server was created Mar 10 2013 at 19:44:36
+2013-11-05 21:01:43	--	kinetic.oftc.net hybrid-7.2.2+oftc1.6.11 CDGPRSabcdfgiklnorsuwxyz biklmnopstveI bkloveI
+2013-11-05 21:01:43	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=30 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=390 NETWORK=OFTC MAXLIST=beI:100 MAXTARGETS=1 CHANTYPES=# :are supported by this server
+2013-11-05 21:01:43	--	CHANLIMIT=#:70 CHANNELLEN=50 CHANMODES=eIqb,k,l,imnpstMRS KNOCK AWAYLEN=160 ELIST=CMNTU SAFELIST EXCEPTS=e INVEX=I :are supported by this server
+2013-11-05 21:01:43	--	28IAADOE1 :your unique ID
+2013-11-05 21:01:43	--	There are 46 users and 10140 invisible on 17 servers
+2013-11-05 21:01:43	--	21 :IRC Operators online
+2013-11-05 21:01:43	--	2069 :channels formed
+2013-11-05 21:01:43	--	I have 1345 clients and 1 servers
+2013-11-05 21:01:43	--	Current local users: 1345  Max: 1437
+2013-11-05 21:01:43	--	Current global users: 10186  Max: 10782
+2013-11-05 21:01:43	--	Highest connection count: 1438 (1437 clients) (158284 connections received)
+2013-11-05 21:01:43	--	- kinetic.oftc.net Message of the Day -
+2013-11-05 21:01:43	--	- Welcome to OFTC - The Open and Free Technology Community
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	- You have connected to OFTC's IRC services.
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	- We are not a general purpose chat platform, but a topical
+2013-11-05 21:01:43	--	- network intent on providing the open source and free
+2013-11-05 21:01:43	--	- software communities a means to cooperate and communicate.
+2013-11-05 21:01:43	--	- As such, illegal and off-topic activity, such as warez
+2013-11-05 21:01:43	--	- trading, may result in being barred from access.
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	- The Open and Free Technology Community was founded at the
+2013-11-05 21:01:43	--	- end of 2001 by a group of experienced members of the Open
+2013-11-05 21:01:43	--	- Source and Free Software communities; it is aimed at
+2013-11-05 21:01:43	--	- providing these communities with better communication,
+2013-11-05 21:01:43	--	- development, and support infrastructure. Our goal is to
+2013-11-05 21:01:43	--	- provide stable services to members of the community in any
+2013-11-05 21:01:43	--	- part of the world, while listening closely to their needs
+2013-11-05 21:01:43	--	- and desires.
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	- For more information on OFTC please visit http://www.oftc.net/.
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	- If you require assistance stop by in channel #oftc, or email
+2013-11-05 21:01:43	--	- support@oftc.net with details.
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	- Thanks and enjoy your stay,
+2013-11-05 21:01:43	--	-
+2013-11-05 21:01:43	--	-         The OFTC team
+2013-11-05 21:01:43	--	End of /MOTD command.
+2013-11-05 21:01:43	--	User mode [+i] by Archierp
+2013-11-06 02:44:29	--	irc: disconnected from server
