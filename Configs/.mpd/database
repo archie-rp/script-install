@@ -1,0 +1,1140 @@
+info_begin
+format: 1
+mpd_version: 0.18.1
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: BADBADNOTGOOD - BBNG2 - JKoop
+mtime: 1383872130
+begin: BADBADNOTGOOD - BBNG2 - JKoop
+directory: BBNG2 (MP3-V0)
+mtime: 1383872127
+begin: BADBADNOTGOOD - BBNG2 - JKoop/BBNG2 (MP3-V0)
+playlist_begin: 00._BADBADNOTGOOD_-_BBNG2.m3u
+mtime: 1383785954
+playlist_end
+end: BADBADNOTGOOD - BBNG2 - JKoop/BBNG2 (MP3-V0)
+end: BADBADNOTGOOD - BBNG2 - JKoop
+directory: Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube
+mtime: 1383872122
+begin: Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube
+song_begin: 01.Last Known Surroundings.mp3
+Time: 502
+Artist: Explosions In The Sky
+AlbumArtist: Explosions In The Sky
+Title: Last Known Surroundings
+Album: Take Care, Take Care, Take Care
+Track: 1/06
+Date: 2011
+Genre: Instrumental Rock
+Disc: 1/1
+mtime: 1383785772
+song_end
+song_begin: 02.Human Qualities.mp3
+Time: 490
+Artist: Explosions In The Sky
+AlbumArtist: Explosions In The Sky
+Title: Human Qualities
+Album: Take Care, Take Care, Take Care
+Track: 2/06
+Date: 2011
+Genre: Instrumental Rock
+Disc: 1/1
+mtime: 1383785734
+song_end
+song_begin: 03.Trembling Hands.mp3
+Time: 211
+Artist: Explosions In The Sky
+AlbumArtist: Explosions In The Sky
+Title: Trembling Hands
+Album: Take Care, Take Care, Take Care
+Track: 3/06
+Date: 2011
+Genre: Instrumental Rock
+Disc: 1/1
+mtime: 1383785700
+song_end
+song_begin: 04.Be Comfortable, Creature.mp3
+Time: 528
+Artist: Explosions In The Sky
+AlbumArtist: Explosions In The Sky
+Title: Be Comfortable, Creature
+Album: Take Care, Take Care, Take Care
+Track: 4/06
+Date: 2011
+Genre: Instrumental Rock
+Disc: 1/1
+mtime: 1383785764
+song_end
+song_begin: 05.Postcard From 1952.mp3
+Time: 427
+Artist: Explosions In The Sky
+AlbumArtist: Explosions In The Sky
+Title: Postcard From 1952
+Album: Take Care, Take Care, Take Care
+Track: 5/06
+Date: 2011
+Genre: Instrumental Rock
+Disc: 1/1
+mtime: 1383785737
+song_end
+song_begin: 06.Let Me Back In.mp3
+Time: 607
+Artist: Explosions In The Sky
+AlbumArtist: Explosions In The Sky
+Title: Let Me Back In
+Album: Take Care, Take Care, Take Care
+Track: 6/06
+Date: 2011
+Genre: Instrumental Rock
+Disc: 1/1
+mtime: 1383785752
+song_end
+playlist_begin: Explosions In The Sky - Take Care, Take Care, Take Care.m3u
+mtime: 1383784461
+playlist_end
+end: Explosions In The Sky - Take Care, Take Care, Take Care (2011) mp3 320 vtwin88cube
+directory: Jimmy Somerville
+mtime: 1383872138
+begin: Jimmy Somerville
+directory: The Singles Collection 1984-1990
+mtime: 1383872137
+begin: Jimmy Somerville/The Singles Collection 1984-1990
+song_begin: 01-Smalltown Boy.mp3
+Time: 301
+Artist: Jimmy Somerville
+Title: Smalltown Boy
+Album: The Singles Collection 1984-1990
+Track: 1
+Date: 1995
+Genre: Pop
+mtime: 1383744634
+song_end
+song_begin: 02-Don't Leave Me This Way.mp3
+Time: 273
+Artist: Jimmy Somerville
+Title: Don't Leave Me This Way
+Album: The Singles Collection 1984-1990
+Track: 2
+Date: 1995
+Genre: Pop
+mtime: 1383744660
+song_end
+song_begin: 03-Ain't Necessarily So.mp3
+Time: 249
+Artist: Jimmy Somerville
+Title: Ain't Necessarily So
+Album: The Singles Collection 1984-1990
+Track: 3
+Date: 1995
+Genre: Pop
+mtime: 1383744665
+song_end
+song_begin: 04-To Love Somebody.mp3
+Time: 260
+Artist: Jimmy Somerville
+Title: To Love Somebody
+Album: The Singles Collection 1984-1990
+Track: 4
+Date: 1995
+Genre: Pop
+mtime: 1383744637
+song_end
+song_begin: 05-Comment Te Dire Adieu.mp3
+Time: 218
+Artist: Jimmy Somerville
+Title: Comment Te Dire Adieu
+Album: The Singles Collection 1984-1990
+Track: 5
+Date: 1995
+Genre: Pop
+mtime: 1383744645
+song_end
+song_begin: 06-Run From Love.mp3
+Time: 277
+Artist: Jimmy Somerville
+Title: Run From Love
+Album: The Singles Collection 1984-1990
+Track: 6
+Date: 1995
+Genre: Pop
+mtime: 1383744641
+song_end
+song_begin: 07-Never Can Say Goodbye.mp3
+Time: 268
+Artist: Jimmy Somerville
+Title: Never Can Say Goodbye
+Album: The Singles Collection 1984-1990
+Track: 7
+Date: 1995
+Genre: Pop
+mtime: 1383744635
+song_end
+song_begin: 08-Why-.mp3
+Time: 238
+Artist: Jimmy Somerville
+Title: Why?
+Album: The Singles Collection 1984-1990
+Track: 8
+Date: 1995
+Genre: Pop
+mtime: 1383744636
+song_end
+song_begin: 09-You Are My World.mp3
+Time: 272
+Artist: Jimmy Somerville
+Title: You Are My World
+Album: The Singles Collection 1984-1990
+Track: 9
+Date: 1995
+Genre: Pop
+mtime: 1383744642
+song_end
+song_begin: 10-For A Friend.mp3
+Time: 278
+Artist: Jimmy Somerville
+Title: For A Friend
+Album: The Singles Collection 1984-1990
+Track: 10
+Date: 1995
+Genre: Pop
+mtime: 1383744644
+song_end
+song_begin: 11-I Feel Love - Johnny Remember Me.mp3
+Time: 348
+Artist: Jimmy Somerville
+Title: I Feel Love - Johnny Remember Me
+Album: The Singles Collection 1984-1990
+Track: 11
+Date: 1995
+Genre: Pop
+mtime: 1383744656
+song_end
+song_begin: 12-There's More To Love Than Boy Meets Girl.mp3
+Time: 233
+Artist: Jimmy Somerville
+Title: There's More To Love Than Boy Meets Girl
+Album: The Singles Collection 1984-1990
+Track: 12
+Date: 1995
+Genre: Pop
+mtime: 1383744646
+song_end
+song_begin: 13-So Cold The Night.mp3
+Time: 281
+Artist: Jimmy Somerville
+Title: So Cold The Night
+Album: The Singles Collection 1984-1990
+Track: 13
+Date: 1995
+Genre: Pop
+mtime: 1383744650
+song_end
+song_begin: 14-You Make Me Feel (Mighty Real).mp3
+Time: 240
+Artist: Jimmy Somerville
+Title: You Make Me Feel (Mighty Real)
+Album: The Singles Collection 1984-1990
+Track: 14
+Date: 1995
+Genre: Pop
+mtime: 1383744633
+song_end
+song_begin: 15-Tomorrow.mp3
+Time: 290
+Artist: Jimmy Somerville
+Title: Tomorrow
+Album: The Singles Collection 1984-1990
+Track: 15
+Date: 1995
+Genre: Pop
+mtime: 1383744645
+song_end
+song_begin: 16-Disenchanted.mp3
+Time: 251
+Artist: Jimmy Somerville
+Title: Disenchanted
+Album: The Singles Collection 1984-1990
+Track: 16
+Date: 1995
+Genre: Pop
+mtime: 1383744643
+song_end
+song_begin: 17-Read My Lips.mp3
+Time: 291
+Artist: Jimmy Somerville
+Title: Read My Lips
+Album: The Singles Collection 1984-1990
+Track: 17
+Date: 1995
+Genre: Pop
+mtime: 1383744635
+song_end
+end: Jimmy Somerville/The Singles Collection 1984-1990
+end: Jimmy Somerville
+directory: Sub Focus - Torus [Deluxe Version] (2013)
+mtime: 1383872119
+begin: Sub Focus - Torus [Deluxe Version] (2013)
+song_begin: 01. Sub Focus - Torus.mp3
+Time: 351
+Artist: Sub Focus
+Title: Torus
+Album: Torus (Deluxe Version)
+Track: 01/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526180
+song_end
+song_begin: 02. Sub Focus - Safe In Sound.mp3
+Time: 279
+Artist: Sub Focus
+Title: Safe In Sound
+Album: Torus (Deluxe Version)
+Track: 02/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526179
+song_end
+song_begin: 03. Sub Focus - Endorphins (feat. Alex Clare).mp3
+Time: 235
+Artist: Sub Focus
+Title: Endorphins (feat. Alex Clare)
+Album: Torus (Deluxe Version)
+Track: 03/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526182
+song_end
+song_begin: 04. Sub Focus - Out the Blue (feat. Alice Gold).mp3
+Time: 278
+Artist: Sub Focus
+Title: Out the Blue (feat. Alice Gold)
+Album: Torus (Deluxe Version)
+Track: 04/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526165
+song_end
+song_begin: 05. Sub Focus - Twilight.mp3
+Time: 189
+Artist: Sub Focus
+Title: Twilight
+Album: Torus (Deluxe Version)
+Track: 05/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526162
+song_end
+song_begin: 06. Sub Focus - Close (feat. MNEK).mp3
+Time: 310
+Artist: Sub Focus
+Title: Close (feat. MNEK)
+Album: Torus (Deluxe Version)
+Track: 06/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526180
+song_end
+song_begin: 07. Sub Focus - Turn It Around (feat. Kele).mp3
+Time: 193
+Artist: Sub Focus
+Title: Turn It Around (feat. Kele)
+Album: Torus (Deluxe Version)
+Track: 07/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526178
+song_end
+song_begin: 08. Sub Focus - Out of Reach (feat. Jayelldee).mp3
+Time: 244
+Artist: Sub Focus
+Title: Out of Reach (feat. Jayelldee)
+Album: Torus (Deluxe Version)
+Track: 08/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526174
+song_end
+song_begin: 09. Sub Focus - Falling Down (feat. Kenzie May).mp3
+Time: 309
+Artist: Sub Focus
+Title: Falling Down (feat. Kenzie May)
+Album: Torus (Deluxe Version)
+Track: 09/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526182
+song_end
+song_begin: 10. Sub Focus - Turn Back Time.mp3
+Time: 307
+Artist: Sub Focus
+Title: Turn Back Time
+Album: Torus (Deluxe Version)
+Track: 10/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526137
+song_end
+song_begin: 11. Sub Focus - You Make It Better (feat. Culture Shock & TC).mp3
+Time: 359
+Artist: Sub Focus
+Title: You Make It Better (feat. Culture Shock & TC)
+Album: Torus (Deluxe Version)
+Track: 11/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526163
+song_end
+song_begin: 12. Sub Focus - Tidal Wave (feat. Alpines).mp3
+Time: 229
+Artist: Sub Focus
+Title: Tidal Wave (feat. Alpines)
+Album: Torus (Deluxe Version)
+Track: 12/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526154
+song_end
+song_begin: 13. Sub Focus - Until the End (feat. Foxes).mp3
+Time: 244
+Artist: Sub Focus
+Title: Until the End (feat. Foxes)
+Album: Torus (Deluxe Version)
+Track: 13/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526156
+song_end
+song_begin: 14. Sub Focus - Eclipse.mp3
+Time: 282
+Artist: Sub Focus
+Title: Eclipse
+Album: Torus (Deluxe Version)
+Track: 14/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526178
+song_end
+song_begin: 15. Sub Focus - Original.mp3
+Time: 211
+Artist: Sub Focus
+Title: Original
+Album: Torus (Deluxe Version)
+Track: 15/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526169
+song_end
+song_begin: 16. Sub Focus - Falling Down VIP (feat. Kenzie May).mp3
+Time: 282
+Artist: Sub Focus
+AlbumArtist: Sub Focus
+Title: Falling Down VIP (feat. Kenzie May)
+Album: Torus (Deluxe Version)
+Track: 16/17
+Date: 2013
+Genre: Electronic
+Composer: Kenzie May & Nick Douwma
+mtime: 1383526170
+song_end
+song_begin: 17. Sub Focus - Endorphins (feat. Alex Clare) [Sub Focus vs. Fred V & Grafix Remix].mp3
+Time: 275
+Artist: Sub Focus
+Title: Endorphins (feat. Alex Clare) [Sub Focus vs. Fred V & Grafix Remix]
+Album: Torus (Deluxe Version)
+Track: 17/17
+Date: 2013
+Genre: Electronic
+mtime: 1383526175
+song_end
+end: Sub Focus - Torus [Deluxe Version] (2013)
+directory: UKF Dubstep 2013
+mtime: 1383872154
+begin: UKF Dubstep 2013
+song_begin: 28 Hz Scream.mp3
+Time: 240
+Artist: Posij
+AlbumArtist: UKF Dubstep
+Title: 28 Hz Scream
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689081
+song_end
+song_begin: Aeropolis (The Others Remix).mp3
+Time: 286
+Artist: BetauCue
+AlbumArtist: UKF Dubstep
+Title: Aeropolis (The Others Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688907
+song_end
+song_begin: Atome.mp3
+Time: 175
+Artist: MSD
+AlbumArtist: UKF Dubstep
+Title: Atome
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689055
+song_end
+song_begin: Beautiful People.mp3
+Time: 165
+Artist: Subscape
+AlbumArtist: UKF Dubstep
+Title: Beautiful People
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689027
+song_end
+song_begin: Behemoth.mp3
+Time: 268
+Artist: Teknian
+AlbumArtist: UKF Dubstep
+Title: Behemoth
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689077
+song_end
+song_begin: Behind You (VIP).mp3
+Time: 286
+Artist: Millions Like Us
+AlbumArtist: UKF Dubstep
+Title: Behind You (VIP)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688899
+song_end
+song_begin: Binary.mp3
+Time: 283
+Artist: Katfyr
+AlbumArtist: UKF Dubstep
+Title: Binary
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688950
+song_end
+song_begin: Black Mountains.mp3
+Time: 240
+Artist: T-Mass
+AlbumArtist: UKF Dubstep
+Title: Black Mountains
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689045
+song_end
+song_begin: Blues.mp3
+Time: 234
+Artist: Mojo
+AlbumArtist: UKF Dubstep
+Title: Blues
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689046
+song_end
+song_begin: Born Enemies.mp3
+Time: 301
+Artist: Truth
+AlbumArtist: UKF Dubstep
+Title: Born Enemies
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689011
+song_end
+song_begin: Boss Wave.mp3
+Time: 257
+Artist: Xilent
+AlbumArtist: UKF Dubstep
+Title: Boss Wave
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689076
+song_end
+song_begin: Come Find Me (Ft. Flux Pavilion).mp3
+Time: 265
+Artist: Cookie Monsta
+AlbumArtist: UKF Dubstep
+Title: Come Find Me (Ft. Flux Pavilion)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689023
+song_end
+song_begin: Crystal Mathematics (Ft. Shaz Sparks).mp3
+Time: 241
+Artist: Au5
+AlbumArtist: UKF Dubstep
+Title: Crystal Mathematics (Ft. Shaz Sparks)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689079
+song_end
+song_begin: Ebb & Flow.mp3
+Time: 293
+Artist: Feed Me & Tasha Baxer
+AlbumArtist: UKF Dubstep
+Title: Ebb & Flow
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689085
+song_end
+song_begin: Endorphins (Ft. Alex Clare).mp3
+Time: 179
+Artist: Sub Focus
+AlbumArtist: UKF Dubstep
+Title: Endorphins (Ft. Alex Clare)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689052
+song_end
+song_begin: Everybody Knows (Ft. Foreign Beggars vs The OGz).mp3
+Time: 188
+Artist: Funtcase
+AlbumArtist: UKF Dubstep
+Title: Everybody Knows (Ft. Foreign Beggars vs The OGz)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689017
+song_end
+song_begin: Explosions (Gemini Remix).mp3
+Time: 279
+Artist: Ellie Goulding
+AlbumArtist: UKF Dubstep
+Title: Explosions (Gemini Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689070
+song_end
+song_begin: Eyes On You.mp3
+Time: 288
+Artist: Von D & Riskotheque
+AlbumArtist: UKF Dubstep
+Title: Eyes On You
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689057
+song_end
+song_begin: Feel Good.mp3
+Time: 185
+Artist: Roksonix
+AlbumArtist: UKF Dubstep
+Title: Feel Good
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689082
+song_end
+song_begin: Fever Dream (Part 1).mp3
+Time: 245
+Artist: MUST DIE!
+AlbumArtist: UKF Dubstep
+Title: Fever Dream (Part 1)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689071
+song_end
+song_begin: Fevers (Ft. Minnesota and Mimi Page).mp3
+Time: 274
+Artist: Seven Lions
+AlbumArtist: UKF Dubstep
+Title: Fevers (Ft. Minnesota and Mimi Page)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689080
+song_end
+song_begin: Frozen Sound.mp3
+Time: 151
+Artist: Joe Ford
+AlbumArtist: UKF Dubstep
+Title: Frozen Sound
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689052
+song_end
+song_begin: Gold (Ft. Yuna).mp3
+Time: 257
+Artist: Adventure Club
+AlbumArtist: UKF Dubstep
+Title: Gold (Ft. Yuna)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689039
+song_end
+song_begin: Good Feeling (True Tiger Remix).mp3
+Time: 253
+Artist: Mikill Pane
+AlbumArtist: UKF Dubstep
+Title: Good Feeling (True Tiger Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689031
+song_end
+song_begin: Guided Rhythm.mp3
+Time: 154
+Artist: Tantrum Desire
+AlbumArtist: UKF Dubstep
+Title: Guided Rhythm
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688753
+song_end
+song_begin: Gully Side.mp3
+Time: 168
+Artist: Joker
+AlbumArtist: UKF Dubstep
+Title: Gully Side
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689036
+song_end
+song_begin: Hold It Down (Ft. Georgia Murray).mp3
+Time: 273
+Artist: Datsik
+AlbumArtist: UKF Dubstep
+Title: Hold It Down (Ft. Georgia Murray)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689031
+song_end
+song_begin: Hypnotizing.mp3
+Time: 216
+Artist: SPL
+AlbumArtist: UKF Dubstep
+Title: Hypnotizing
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689083
+song_end
+song_begin: I Need You.mp3
+Time: 197
+Artist: Subscape
+AlbumArtist: UKF Dubstep
+Title: I Need You
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688853
+song_end
+song_begin: Infinity.mp3
+Time: 232
+Artist: Xilent
+AlbumArtist: UKF Dubstep
+Title: Infinity
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689063
+song_end
+song_begin: Inside My Head (Ft. Ghetts).mp3
+Time: 234
+Artist: Modestep & Teddy Killerz
+AlbumArtist: UKF Dubstep
+Title: Inside My Head (Ft. Ghetts)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689033
+song_end
+song_begin: Jurassic.mp3
+Time: 271
+Artist: AWE
+AlbumArtist: UKF Dubstep
+Title: Jurassic
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689038
+song_end
+song_begin: Just Be (Distance Remix).mp3
+Time: 273
+Artist: Paloma Faith
+AlbumArtist: UKF Dubstep
+Title: Just Be (Distance Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688890
+song_end
+song_begin: Locked On The Low (Ft. Naomi Pryor) (Zero One Remix).mp3
+Time: 154
+Artist: Lynx & Hellrazor
+AlbumArtist: UKF Dubstep
+Title: Locked On The Low (Ft. Naomi Pryor) (Zero One Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689081
+song_end
+song_begin: Lost I.mp3
+Time: 267
+Artist: Dead Battery & Dabin
+AlbumArtist: UKF Dubstep
+Title: Lost I
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689046
+song_end
+song_begin: Made Of Clay (Ft. CoMa).mp3
+Time: 317
+Artist: Dubba Jonny
+AlbumArtist: UKF Dubstep
+Title: Made Of Clay (Ft. CoMa)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689026
+song_end
+song_begin: Metronic.mp3
+Time: 276
+Artist: Au5
+AlbumArtist: UKF Dubstep
+Title: Metronic
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689083
+song_end
+song_begin: Mind Control.mp3
+Time: 224
+Artist: Zomboy
+AlbumArtist: UKF Dubstep
+Title: Mind Control
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689080
+song_end
+song_begin: Mirrormask (Ft. Koda & CoMa).mp3
+Time: 243
+Artist: Dabin
+AlbumArtist: UKF Dubstep
+Title: Mirrormask (Ft. Koda & CoMa)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689081
+song_end
+song_begin: More Than You.mp3
+Time: 215
+Artist: Koven
+AlbumArtist: UKF Dubstep
+Title: More Than You
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689078
+song_end
+song_begin: My World.mp3
+Time: 172
+Artist: Eddie K
+AlbumArtist: UKF Dubstep
+Title: My World
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689056
+song_end
+song_begin: Never Gonna Break (Ft. Lily McKenzie) (Specimen A Remix).mp3
+Time: 236
+Artist: SKibadee
+AlbumArtist: UKF Dubstep
+Title: Never Gonna Break (Ft. Lily McKenzie) (Specimen A Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689010
+song_end
+song_begin: Never Let Me Go.mp3
+Time: 284
+Artist: Dodge & Fuski
+AlbumArtist: UKF Dubstep
+Title: Never Let Me Go
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689081
+song_end
+song_begin: Overtime (DotEXE & Candyland Remix).mp3
+Time: 256
+Artist: Cash Cash
+AlbumArtist: UKF Dubstep
+Title: Overtime (DotEXE & Candyland Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689073
+song_end
+song_begin: Perfect Replacement (Datsik Remix).mp3
+Time: 244
+Artist: Example
+AlbumArtist: UKF Dubstep
+Title: Perfect Replacement (Datsik Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689065
+song_end
+song_begin: Planet Online (Culprate Remix).mp3
+Time: 257
+Artist: Neosignal
+AlbumArtist: UKF Dubstep
+Title: Planet Online (Culprate Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689084
+song_end
+song_begin: Rez (Bassnectar Remix).mp3
+Time: 311
+Artist: Underworld
+AlbumArtist: UKF Dubstep
+Title: Rez (Bassnectar Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689027
+song_end
+song_begin: Scarred.mp3
+Time: 247
+Artist: Culprate
+AlbumArtist: UKF Dubstep
+Title: Scarred
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689076
+song_end
+song_begin: Shady.mp3
+Time: 242
+Artist: 12th Planet & Protohype
+AlbumArtist: UKF Dubstep
+Title: Shady
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688959
+song_end
+song_begin: Shook.mp3
+Time: 274
+Artist: Megalodon
+AlbumArtist: UKF Dubstep
+Title: Shook
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689070
+song_end
+song_begin: Shouting At The Sky.mp3
+Time: 277
+Artist: High Rankin & Tigerlight
+AlbumArtist: UKF Dubstep
+Title: Shouting At The Sky
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689049
+song_end
+song_begin: Slaughterhouse.mp3
+Time: 166
+Artist: KillSonik
+AlbumArtist: UKF Dubstep
+Title: Slaughterhouse
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689084
+song_end
+song_begin: So Far Away.mp3
+Time: 356
+Artist: Phaeleh
+AlbumArtist: UKF Dubstep
+Title: So Far Away
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689083
+song_end
+song_begin: Stardust (Ft. Taylr Renee).mp3
+Time: 274
+Artist: Schoolboy & James Egbert
+AlbumArtist: UKF Dubstep
+Title: Stardust (Ft. Taylr Renee)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689078
+song_end
+song_begin: Storm (Ft. Jess Mills).mp3
+Time: 198
+Artist: Phaeleh
+AlbumArtist: UKF Dubstep
+Title: Storm (Ft. Jess Mills)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689061
+song_end
+song_begin: Sucker Punch.mp3
+Time: 148
+Artist: Dodge & Fuski
+AlbumArtist: UKF Dubstep
+Title: Sucker Punch
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688990
+song_end
+song_begin: The Final Cut.mp3
+Time: 173
+Artist: 501
+AlbumArtist: UKF Dubstep
+Title: The Final Cut
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689010
+song_end
+song_begin: The Line (Ft. Glen Boden).mp3
+Time: 230
+Artist: Emalkay
+AlbumArtist: UKF Dubstep
+Title: The Line (Ft. Glen Boden)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689051
+song_end
+song_begin: The Palace (Ft. Blake Hazard).mp3
+Time: 326
+Artist: The M Machine
+AlbumArtist: UKF Dubstep
+Title: The Palace (Ft. Blake Hazard)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689037
+song_end
+song_begin: The Scientist.mp3
+Time: 293
+Artist: Flux Pavilion
+AlbumArtist: UKF Dubstep
+Title: The Scientist
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689075
+song_end
+song_begin: The Void (Ft. Anna Yvette).mp3
+Time: 261
+Artist: Konec
+AlbumArtist: UKF Dubstep
+Title: The Void (Ft. Anna Yvette)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689082
+song_end
+song_begin: Truth (Candyland Remix).mp3
+Time: 262
+Artist: Tristam
+AlbumArtist: UKF Dubstep
+Title: Truth (Candyland Remix)
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689079
+song_end
+song_begin: Unsafe.mp3
+Time: 334
+Artist: Joe Ford
+AlbumArtist: UKF Dubstep
+Title: Unsafe
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688968
+song_end
+song_begin: Uppercut.mp3
+Time: 251
+Artist: Mizuki
+AlbumArtist: UKF Dubstep
+Title: Uppercut
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689078
+song_end
+song_begin: Vega.mp3
+Time: 247
+Artist: Meta
+AlbumArtist: UKF Dubstep
+Title: Vega
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689048
+song_end
+song_begin: Walrus.mp3
+Time: 165
+Artist: KillSonik
+AlbumArtist: UKF Dubstep
+Title: Walrus
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383689082
+song_end
+song_begin: Zim Zimma.mp3
+Time: 180
+Artist: Joker
+AlbumArtist: UKF Dubstep
+Title: Zim Zimma
+Album: UKF Dubstep 2013
+Date: 2013
+Genre: Dubstep
+mtime: 1383688903
+song_end
+end: UKF Dubstep 2013
